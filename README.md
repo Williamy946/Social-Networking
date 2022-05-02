@@ -15,7 +15,7 @@
 
 ## Experiment Purpose
 
-For the given datasets, predict the user response to activity invitations.
+For the given datasets, predict the user response to activity invitations. (Yes/No/Maybe)
 
 ## Data processing
 
